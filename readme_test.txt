@@ -6,6 +6,8 @@ using namespace std;
 
 int main()
 {
-  cout << "HI Guys" << endl;
+  cout << "Hi Guys" << endl;
   }
+  
+  //misspelled Hi
   
