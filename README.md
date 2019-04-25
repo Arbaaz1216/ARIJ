@@ -5,8 +5,8 @@ Software Engineering
 Members:
 
 Arbaaz Polra - Project Manager,
-Raul Sanchez - Requirement Manager,
-Isaiah Hernandez - Programmer,
+Raul Sanchez - Programmer,
+Isaiah Hernandez - Programmer/Requirement Manager
 Jonathan Nguyen - Software Architect
 
 Purpose: 
